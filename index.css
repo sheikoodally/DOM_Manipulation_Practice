@@ -1,0 +1,25 @@
+.textAlign{
+    text-align: center;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+header{
+    background-color: #333;
+    color: #f4f4f4;
+    align-content: center;
+    height: 5rem;
+}
+
+section{
+    margin: 2rem 0;
+    background-color: #333;
+    width: 100%;
+    color:#f4f4f4;
+}
+
+.container{
+    height: 30rem;
+}
