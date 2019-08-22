@@ -23,3 +23,7 @@ section{
 .container{
     height: 30rem;
 }
+
+ul{
+    list-style: none;
+}
